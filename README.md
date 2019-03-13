@@ -1,3 +1,0 @@
-# MyProgBasics-RLindner
-
-C# Basics
